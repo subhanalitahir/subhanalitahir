@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Subhan%20Ali%20Tahir&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Subhan Ali Tahir</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 ## About Me
 
 - 🚀 Passionate about full-stack web development and building efficient, user-friendly applications.
