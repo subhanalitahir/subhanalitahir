@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Subhan%20Ali%20Tahir&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
-
 ## About Me
 
 - 🚀 Passionate about full-stack web development and building efficient, user-friendly applications.
